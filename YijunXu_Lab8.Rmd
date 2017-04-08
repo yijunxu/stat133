@@ -1,0 +1,11 @@
+---
+title: "YijunXu_lab8"
+author: "Yijun Xu"
+date: "2017年4月8日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+for testing.
